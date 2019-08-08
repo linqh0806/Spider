@@ -1,6 +1,6 @@
 #!/usr/bin/python
 # coding:utf-8
-
+#逻辑回归softmax 预测
 import tensorflow as tf
 import input_data
 # 加载数据
